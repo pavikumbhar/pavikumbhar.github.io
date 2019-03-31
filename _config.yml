@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Pavi Kumbhar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Part time Software Engineer ..Full time 'ती' चा Fan.."
   location         : "Pune IN"
   email            :
@@ -293,3 +293,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+    # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
