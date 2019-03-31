@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Pavi Kumbhar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Part time Software Engineer ...Full time 'ती' चा Fan....."
+  bio              : "Part time Software Engineer ..Full time 'ती' चा Fan.."
   location         : "Pune IN"
   email            :
   links:
@@ -117,19 +117,19 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://pavikumbhar.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/pavi.kumbhar"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/pavikumbhar"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/pavikumbhar/"
 
 # Site Footer
 footer:
